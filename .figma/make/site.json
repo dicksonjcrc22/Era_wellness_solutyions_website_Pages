@@ -1,0 +1,10 @@
+{
+  "description": "Create visually stunning homepages that mirror your design preferences, while offering a placeholder for upcoming content, perfect for showcasing your brand.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
